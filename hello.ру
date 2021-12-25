@@ -1,2 +1,5 @@
 name = 'Hello Wold!'
 print(name)
+
+name = 'Yulia'
+print(name)
