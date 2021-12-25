@@ -3,3 +3,6 @@ print(name)
 
 name = 'Yulia'
 print(name)
+
+name = 'Yakovleva'
+print(name)
